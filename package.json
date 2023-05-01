@@ -1,0 +1,12 @@
+{
+  "name": "chrome-yt-open-standalone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://greghornby@github.com/greghornby/chrome-yt-open-standalone.git",
+  "author": "Greg Hornby <greg.hornby@roamdigital.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@types/chrome": "^0.0.234"
+  }
+}
